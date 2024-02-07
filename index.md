@@ -1,7 +1,9 @@
 ---
-title: Home
+title: Blakely Advocacy Institute
 layout: home
 ---
+# Legal Negotiations Course Materials
+
 [Syllabus](./Spring_2024_Legal_Negotiatio_Syllabus_updated.pdf)
 
 [Syllabus Addendum](./Spring_2024_Legal_Negotiations_syllabus_addendum.pdf)
