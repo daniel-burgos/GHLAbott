@@ -13,7 +13,7 @@ layout: home
     - [Zenz Confidential Information](./Senator_Zenz.pdf)
     - [Recore Confidential Information](./Senator_Recore.pdf)
  
-        - Opening(video)
+        - [Opening Video](https://uofh-my.sharepoint.com/:v:/g/personal/dburgosc_cougarnet_uh_edu/Edl19Pca7xZEgo4vUFVfeh8BK6qKS5uj9JhI8l7xEsj1kw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=c8nwtl)
 
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
