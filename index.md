@@ -10,8 +10,8 @@ layout: home
 
 - **Zenz v Recore**
 
-    - Zenz Confidential Information
-    - Recore Confidential Information
+    - [Zenz Confidential Information](./Senator_Zenz.pdf)
+    - [Recore Confidential Information](./Senator_Recore.pdf)
  
         - Opening(video)
 
