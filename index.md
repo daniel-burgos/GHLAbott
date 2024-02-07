@@ -9,9 +9,8 @@ layout: home
 **Negotiation Demonstration**
 
 - **Zenz v Recore**
--     Zenz Confidential Information
--     Recore Confidential Information
--     Opening (Video)
+
+    - Zenz Confidential Information
 
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
