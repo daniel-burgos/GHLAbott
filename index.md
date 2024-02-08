@@ -30,3 +30,23 @@ layout: home
 
 [Framing In Negotiation](./Framing_in_Negotiation.docx)
 <br>[Should You Tell Them A Story?](./Stories_Weak_Strong_Facts.docx)
+
+Negotiation Scenario: Oil Pricing
+- Side A
+- Side B
+
+<p><u>Week 3 (): BATNA </u></p>
+[Week 3 Slides](./)
+
+[BATNA Basics](./
+[BATNA and Risky Negotiation Tactics]
+[BATNA Strategy]
+[Bargaining with Your BATNA in Mind]
+[The Anchoring Bias in Negotiation]
+
+**Negotiation Scenario: Sally Soprano** 
+- Confidential Information for Sally's Agent
+- Confidential Information for Lyric Opera's Business Manager
+
+<p><u>Week 4 (): Breaking Down the Fact Pattern, ACtive Listening/Information Gatyhering/Motivational Interviewing </u></p>
+[Week 3 Slides](./)
