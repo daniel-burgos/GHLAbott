@@ -29,4 +29,4 @@ layout: home
 [Week 2 Slides](./Week_2_Setting_the_Scene_and_Framing_Spring_2024.pptx)
 
 [Framing In Negotiation](./Framing_in_Negotiation.docx)
-<br>[Should You Tell Them A Story?](./Stories_Weak_Strong_Facts.docx)</br>
+<br>[Should You Tell Them A Story?](./Stories_Weak_Strong_Facts.docx)
