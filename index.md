@@ -16,4 +16,6 @@ layout: home
     - [Recore Confidential Information](./Senator_Recore.pdf)
  
         - [Opening Video](https://uofh-my.sharepoint.com/:v:/g/personal/dburgosc_cougarnet_uh_edu/Edl19Pca7xZEgo4vUFVfeh8BK6qKS5uj9JhI8l7xEsj1kw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=c8nwtl)
+     
+<p><u>Week 1 (): Course Introduction, Assessments, Negotiations Process & Ethics</u></p>
 
