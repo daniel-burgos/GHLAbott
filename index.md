@@ -62,3 +62,45 @@ layout: home
 <br> **<u>Week 4 (): Breaking Down the Fact Pattern, ACtive Listening/Information Gatyhering/Motivational Interviewing </u>** 
 
 [Week 4 Slides](./)
+
+[Breaking Down a Fact Parttern](./Breaking_Down_a_Fact_Pattern.pdf)
+
+[Ask better Negotiations Questions](./Ask_Better_Negotiation_Questions.docx)
+
+[Listening Tips for Dealing with Difficult People in Negotiation](./Negotiation_Tips_Listening_Skills_for_Dealing_with_Difficult_People.docx)
+
+[Preparing for a Negotiation](./Preparing_for_a_Negotiation.docx)
+
+<br> **Negotiation Scenario: Axis Affair**
+
+- Confidential Information for Axis
+- Confidential Information for Denise Webster
+
+<br> <u> **Week 5 (): Scored Negotiation #1**</u>
+
+<br> <u> **Week 6 (): Class Debrief on Scored Negotiation #1, Representation Plans**</u>
+
+[Sample Negotiation Plan Preparation Sheet](./
+
+<br> <u> **Week 8 (): Option Packages & Justifications**</u>
+
+Week 8 Slides
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
