@@ -18,6 +18,8 @@ layout: home
         - [Opening Video](https://uofh-my.sharepoint.com/:v:/g/personal/dburgosc_cougarnet_uh_edu/Edl19Pca7xZEgo4vUFVfeh8BK6qKS5uj9JhI8l7xEsj1kw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=c8nwtl)
      
 **<u> Week 1 (): Course Introduction, Assessments, Negotiations Process & Ethics </u>**
+
+
 [Week 1 Slides](./Week_1_Legal_Negotiations_Spring_2024_(Class 1).pptx)
 
 [Glasl's 9 stage Model of Conflict Escalation](./Conflict_Escalation_Glasl.pdf)
@@ -28,7 +30,9 @@ layout: home
 
 [When Our Principles Crash Up Against Our Negotiations Goals](./When_Our_Principles_Crash_Up_Against_Our_Negotiation_Goals.docx)
 
+
 **<u>Week 2 (): Setting the Scene/Framing & Themes/Hooks </u>**
+
 
 [Week 2 Slides](./Week_2_Setting_the_Scene_and_Framing_Spring_2024.pptx)
 
@@ -36,11 +40,13 @@ layout: home
 
 [Should You Tell Them A Story?](./Stories_Weak_Strong_Facts.docx)
 
+
 **Negotiation Scenario: Oil Pricing**
 - Side A
 - Side B
 
 **<u>Week 3 (): BATNA </u>**
+
 
 [Week 3 Slides](./)
 
@@ -54,9 +60,11 @@ layout: home
 
 [The Anchoring Bias in Negotiation](./The_Anchoring_Bias_in_Negotiation.docx)
 
+
 **Negotiation Scenario: Sally Soprano** 
 - [Confidential Information for Sally's Agent](./Sally's_Agent-Confidential_Information.pdf)
 - [Confidential Information for Lyric Opera's Business Manager](./Lyric_Opera's_Business_Manager-Confidential_Information.pdf)
 
 **<u>Week 4 (): Breaking Down the Fact Pattern, ACtive Listening/Information Gatyhering/Motivational Interviewing </u>**
+
 [Week 3 Slides](./)
