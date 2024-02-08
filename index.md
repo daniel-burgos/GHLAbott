@@ -21,27 +21,37 @@ layout: home
 [Week 1 Slides](./Week_1_Legal_Negotiations_Spring_2024_(Class 1).pptx)
 
 [Glasl's 9 stage Model of Conflict Escalation](./Conflict_Escalation_Glasl.pdf)
+
 [Six Guidelines for getting to Yes](./Six_Guidelines_for_Getting_to_Yes.docx)
+
 [Ethics in Negotiations](./Ethics_in_Negotiations.docx)
+
 [When Our Principles Crash Up Against Our Negotiations Goals](./When_Our_Principles_Crash_Up_Against_Our_Negotiation_Goals.docx)
 
 **<u>Week 2 (): Setting the Scene/Framing & Themes/Hooks </u>**
+
 [Week 2 Slides](./Week_2_Setting_the_Scene_and_Framing_Spring_2024.pptx)
 
 [Framing In Negotiation](./Framing_in_Negotiation.docx)
-<br>[Should You Tell Them A Story?](./Stories_Weak_Strong_Facts.docx)
+
+[Should You Tell Them A Story?](./Stories_Weak_Strong_Facts.docx)
 
 **Negotiation Scenario: Oil Pricing**
 - Side A
 - Side B
 
 **<u>Week 3 (): BATNA </u>**
+
 [Week 3 Slides](./)
 
 [BATNA Basics](./13_BATNA_Basics.pdf)
+
 [BATNA and Risky Negotiation Tactics](./BATNA_and_Risky_Negotiation_Tactics.docx)
+
 [BATNA Strategy](./BATNA_Strategy_Should_You_Reveal_Your_BATNA.docx)
+
 [Bargaining with Your BATNA in Mind](./Negotiation_and_Bargaining_with_Your_BATNA_in_Mind.docx)
+
 [The Anchoring Bias in Negotiation](./The_Anchoring_Bias_in_Negotiation.docx)
 
 **Negotiation Scenario: Sally Soprano** 
