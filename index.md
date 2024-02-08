@@ -31,7 +31,7 @@ layout: home
 [Framing In Negotiation](./Framing_in_Negotiation.docx)
 <br>[Should You Tell Them A Story?](./Stories_Weak_Strong_Facts.docx)
 
-Negotiation Scenario: Oil Pricing
+**Negotiation Scenario: Oil Pricing**
 - Side A
 - Side B
 
