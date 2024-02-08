@@ -38,15 +38,15 @@ Negotiation Scenario: Oil Pricing
 <p><u>Week 3 (): BATNA </u></p>
 [Week 3 Slides](./)
 
-[BATNA Basics](./
-[BATNA and Risky Negotiation Tactics]
-[BATNA Strategy]
-[Bargaining with Your BATNA in Mind]
-[The Anchoring Bias in Negotiation]
+[BATNA Basics](./13_BATNA_Basics.pdf)
+[BATNA and Risky Negotiation Tactics](./BATNA_and_Risky_Negotiation_Tactics.docx)
+[BATNA Strategy](./BATNA_Strategy_Should_You_Reveal_Your_BATNA.docx)
+[Bargaining with Your BATNA in Mind](./Negotiation_and_Bargaining_with_Your_BATNA_in_Mind.docx)
+[The Anchoring Bias in Negotiation](./The_Anchoring_Bias_in_Negotiation.docx)
 
 **Negotiation Scenario: Sally Soprano** 
-- Confidential Information for Sally's Agent
-- Confidential Information for Lyric Opera's Business Manager
+- [Confidential Information for Sally's Agent](./Sally's_Agent-Confidential_Information.pdf)
+- [Confidential Information for Lyric Opera's Business Manager](./Lyric_Opera's_Business_Manager-Confidential_Information.pdf)
 
 <p><u>Week 4 (): Breaking Down the Fact Pattern, ACtive Listening/Information Gatyhering/Motivational Interviewing </u></p>
 [Week 3 Slides](./)
