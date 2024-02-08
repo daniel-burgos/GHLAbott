@@ -17,7 +17,7 @@ layout: home
  
         - [Opening Video](https://uofh-my.sharepoint.com/:v:/g/personal/dburgosc_cougarnet_uh_edu/Edl19Pca7xZEgo4vUFVfeh8BK6qKS5uj9JhI8l7xEsj1kw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=c8nwtl)
      
-<p><u>Week 1 (): Course Introduction, Assessments, Negotiations Process & Ethics</u></p>
+<p><u> **Week 1 (): Course Introduction, Assessments, Negotiations Process & Ethics** </u></p>
 [Week 1 Slides](./Week_1_Legal_Negotiations_Spring_2024_(Class 1).pptx)
 
 [Glasl's 9 stage Model of Conflict Escalation](./Conflict_Escalation_Glasl.pdf)
