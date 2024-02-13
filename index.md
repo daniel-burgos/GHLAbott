@@ -150,9 +150,9 @@ layout: home
 - Representing the Governonr
 - Representing the Other Ports
 
-<br> <u>**Week 12(): Final Negotiation Planning Sessions**</u>
+<br> **<u>Week 12(): Final Negotiation Planning Sessions</u>**
 
-<br> <u>**Week 13(): Scored Negotiation #3 & Final Class Debriefing</u>**
+<br> **<u>Week 13(): Scored Negotiation #3 & Final Class Debriefing**</u>
 
 <br> **Suggested Reading List**
 
