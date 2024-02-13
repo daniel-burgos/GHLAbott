@@ -4,7 +4,7 @@ layout: home
 ---
 # Legal Negotiations Course Materials
 
-  <span style="color:red;">your text here > </span>
+  <span style="color:red;">your text here 
 
 [Syllabus](./Spring_2024_Legal_Negotiatio_Syllabus_updated.pdf)
 
