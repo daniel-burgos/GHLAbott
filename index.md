@@ -76,9 +76,9 @@ layout: home
 - Confidential Information for Axis
 - Confidential Information for Denise Webster
 
-<br> <u>**Week 5 (): Scored Negotiation #1**</u>
+<br> **<u>Week 5 (): Scored Negotiation #1</u>**
 
-<br> <u>**Week 6 (): Class Debrief on Scored Negotiation #1, Representation Plans**</u>
+<br> **<u>Week 6 (): Class Debrief on Scored Negotiation #1, Representation Plans</u>**
 
 [Sample Negotiation Plan Preparation Sheet](./Negotiation_Prep_Sheet.pdf)
 
@@ -86,7 +86,7 @@ layout: home
 - Confidential Information for the Buyer
 - Confidential Information for the Seller
 
-<br> <u>**Week 7 (): Interest Generation, Neogitation techniques & Terms**</u>
+<br> **<u>Week 7 (): Interest Generation, Neogitation techniques & Terms</u>**
 
 [Week 7 Slides](./)
 
@@ -109,11 +109,11 @@ layout: home
 - Confidentation Information for River James
 - Confidentiatl Information for Rory Falls
 
-<br> <u>**Week 8 (): Option Packages & Justifications**</u>
+<br> **<u>Week 8 (): Option Packages & Justifications</u>**
 
 [Week 8 Slides](./
 
-<br> **Negotiation Scenario**: Bevans v. Newcombe Realty (General Information)
+<br> **Negotiation Scenario**: Bevans v. Newcombe Realty (General Information)**
 
 - Confidential Information for Bevans
 - Confidential Information for Newcombe Realty
