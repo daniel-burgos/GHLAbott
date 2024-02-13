@@ -7,7 +7,7 @@ layout: home
   <span style="color: rgba(200,16,46);">your text here 
 
 
-[ <span style="color: rgba(200,16,46);"> Syllabus](./Spring_2024_Legal_Negotiatio_Syllabus_updated.pdf)
+  <span style="color: rgba(200,16,46);"> [Syllabus](./Spring_2024_Legal_Negotiatio_Syllabus_updated.pdf) </span>
 
 [Syllabus Addendum](./Spring_2024_Legal_Negotiations_syllabus_addendum.pdf)
 
