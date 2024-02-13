@@ -4,6 +4,8 @@ layout: home
 ---
 # Legal Negotiations Course Materials
 
+.text-red-300 ksdjflkjsdflkdjsf
+
 [Syllabus](./Spring_2024_Legal_Negotiatio_Syllabus_updated.pdf)
 
 [Syllabus Addendum](./Spring_2024_Legal_Negotiations_syllabus_addendum.pdf)
