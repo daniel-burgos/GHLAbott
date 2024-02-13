@@ -82,9 +82,86 @@ layout: home
 
 [Sample Negotiation Plan Preparation Sheet](./
 
+<br> **Negotiation Scenario: 67 Fish Pond Lane**
+- Confidential Information for the Buyer
+- Confidential Information for the Seller
+
+<br> <u>**Week 7 (): Interest Generation, Neogitation techniques & Terms**</u>
+
+[Week 7 Slides](./)
+
+<br> [Good Grief! Anxiety Sours the Economic by Dr. Je'Anna Abbott](./
+
+[Five Common Negitation Mistakes and How You Can Avoid Them](./
+
+[Five Good NEgotitation Techniques](./
+
+[Are Introverts at a Disadvantage in Negotiation](./
+
+[The First Offer Dilemma in Negotiations](./
+
+[Dealing with Difficult People](./
+
+[The Anchoring Heuristics - Anchoring for Maximum Effec](./
+
+<br> **Negotiation Scenario: James v. Falls**
+
+- Confidentation Information for River James
+- Confidentiatl Information for Rory Falls
+
 <br> <u>**Week 8 (): Option Packages & Justifications**</u>
 
-Week 8 Slides
+[Week 8 Slides](./
+
+<br> **Negotiation Scenario**: Bevans v. Newcombe Realty (General Information)
+
+- Confidential Information for Bevans
+- Confidential Information for Newcombe Realty
+
+<br> **<u>Week 9(): Scored Negotiations #2</u>**
+
+<br> **<u>Week 10(): Class Debrief on Scored Negotiation #2, Negotiation Techniques and Strategies</u>**
+
+[Week 10 Slides](./
+
+<br> [Negotiation Strategies and Techniques](./
+
+<br> Negotiation Scenario: **Leaves Before the Fall**
+
+- Representing Sharon Stone
+- Representing Microtech
+
+<br> **<u>Week 11(): Multi-Party Negotiations</u>**
+
+[Weel 11 Sldies](./
+
+<br> [Building Coalitions](./
+
+[Managing a Multi-party Negotiation](./
+
+[Turning Adversaries into Partners](./
+
+<br> Negotiation Scenario: Harborco: General Information
+
+- Representing the Feral DRC
+- Representing the Environmental League
+- Representing Harborco
+- Representing the Union
+- Representing the Governonr
+- Representing the Other Ports
+
+<br> <u>**Week 12(): Final Negotiation Planning Sessions**</u>
+
+<br> <u>**Week 13(): Scored Negotiation #3 & Final Class Debriefing</u>**
+
+<br> **Suggested Reading List**
+
+- [Online Negotiations in a time of Social Distancing]
+- [In Email Negotiations, When They're Happy, Do You Know It?]
+- [Body Language in Negotiations]
+- [How Body Language Affects Negotiations]
+- [Overcoming Cultural Barriers in Negotiation]
+- [Cross-Cultural Communication in Business Neogtiations]
 
 
 
