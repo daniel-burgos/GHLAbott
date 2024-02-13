@@ -59,7 +59,7 @@ layout: home
 - [Confidential Information for Sally's Agent](./Sally's_Agent-Confidential_Information.pdf)
 - [Confidential Information for Lyric Opera's Business Manager](./Lyric_Opera's_Business_Manager-Confidential_Information.pdf)
 
-<br> **<u>Week 4 (): Breaking Down the Fact Pattern, ACtive Listening/Information Gatyhering/Motivational Interviewing </u>** 
+<br> **<u>Week 4 (): Breaking Down the Fact Pattern, Active Listening/Information Gathering/Motivational Interviewing </u>** 
 
 [Week 4 Slides](./)
 
@@ -76,13 +76,13 @@ layout: home
 - Confidential Information for Axis
 - Confidential Information for Denise Webster
 
-<br> <u> **Week 5 (): Scored Negotiation #1**</u>
+<br> <u>**Week 5 (): Scored Negotiation #1**</u>
 
-<br> <u> **Week 6 (): Class Debrief on Scored Negotiation #1, Representation Plans**</u>
+<br> <u>**Week 6 (): Class Debrief on Scored Negotiation #1, Representation Plans**</u>
 
 [Sample Negotiation Plan Preparation Sheet](./
 
-<br> <u> **Week 8 (): Option Packages & Justifications**</u>
+<br> <u>**Week 8 (): Option Packages & Justifications**</u>
 
 Week 8 Slides
 
