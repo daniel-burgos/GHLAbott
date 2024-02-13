@@ -80,7 +80,7 @@ layout: home
 
 <br> <u>**Week 6 (): Class Debrief on Scored Negotiation #1, Representation Plans**</u>
 
-[Sample Negotiation Plan Preparation Sheet](./
+[Sample Negotiation Plan Preparation Sheet](./Negotiation_Prep_Sheet.pdf)
 
 <br> **Negotiation Scenario: 67 Fish Pond Lane**
 - Confidential Information for the Buyer
@@ -90,19 +90,19 @@ layout: home
 
 [Week 7 Slides](./)
 
-<br> [Good Grief! Anxiety Sours the Economic by Dr. Je'Anna Abbott](./
+<br> [Good Grief! Anxiety Sours the Economic by Dr. Je'Anna Abbott](./Good_Grief!_Anxiety_Sours_the_Economic_Abbott.pdf)
 
-[Five Common Negitation Mistakes and How You Can Avoid Them](./
+[Five Common Negitation Mistakes and How You Can Avoid Them](./5_Common_Negotiation_Mistakes_and_How_You_Can_Avoid_Them.docx)
 
-[Five Good NEgotitation Techniques](./
+[Five Good Negotitation Techniques](./5_Good_Negotiation_Techniques.docx)
 
-[Are Introverts at a Disadvantage in Negotiation](./
+[Are Introverts at a Disadvantage in Negotiation](./Are_Introverts_at_a_Disadvantage_in_Negotiation.docx)
 
-[The First Offer Dilemma in Negotiations](./
+[The First Offer Dilemma in Negotiations](./The_First_Offer_Dilemma_in_Negotiations.pdf)
 
-[Dealing with Difficult People](./
+[Dealing with Difficult People](./Dealing_with_Difficult_People.pdf)
 
-[The Anchoring Heuristics - Anchoring for Maximum Effec](./
+[The Anchoring Heuristics - Anchoring for Maximum Effec](./The_Anchoring_Heurist_Anchoring_for_Maximum_Effect.docx)
 
 <br> **Negotiation Scenario: James v. Falls**
 
@@ -124,7 +124,7 @@ layout: home
 
 [Week 10 Slides](./
 
-<br> [Negotiation Strategies and Techniques](./
+<br> [Negotiation Strategies and Techniques](./Negotiation_Strategies_and_Techniques.pdf)
 
 <br> Negotiation Scenario: **Leaves Before the Fall**
 
@@ -135,11 +135,11 @@ layout: home
 
 [Weel 11 Sldies](./
 
-<br> [Building Coalitions](./
+<br> [Building Coalitions](./Coalition_Building.docx)
 
-[Managing a Multi-party Negotiation](./
+[Managing a Multi-party Negotiation](./Managing_a_Multiparty_Negotiation.docx)
 
-[Turning Adversaries into Partners](./
+[Turning Adversaries into Partners](./Turning_Adversaries_into_Partners.pdf)
 
 <br> Negotiation Scenario: Harborco: General Information
 
@@ -156,12 +156,12 @@ layout: home
 
 <br> **Suggested Reading List**
 
-- [Online Negotiations in a time of Social Distancing]
-- [In Email Negotiations, When They're Happy, Do You Know It?]
-- [Body Language in Negotiations]
-- [How Body Language Affects Negotiations]
-- [Overcoming Cultural Barriers in Negotiation]
-- [Cross-Cultural Communication in Business Neogtiations]
+- [Online Negotiations in a time of Social Distancing](./Online_Negotiation_in_a_Time_of_Social_Distance.docx)
+- [In Email Negotiations, When They're Happy, Do You Know It?](./In_Email_Negotiations,_When_They're_Happy,_Do_You_Know_It.docx)
+- [Body Language in Negotiations](./Body_Language_in_Negotiation.docx)
+- [How Body Language Affects Negotiations](./How_Body_Language_Affects_Negotiation.docx)
+- [Overcoming Cultural Barriers in Negotiation](./Overcoming_Cultural_Barriers_in_Negotiation_V02.pdf)
+- [Cross-Cultural Communication in Business Neogtiations](./Cross_Cultural_Communication_in_Business_Negotiations.docx)
 
 
 
